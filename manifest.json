@@ -2,7 +2,7 @@
   "name": "Lab8-Starter",
   "short_name": "Cynthia",
   "description": "PWA",
-  "start_url": "https://cdelira9.github.io/Lab8-Starter/",
+  "start_url": "http://127.0.0.1:5501/",
   "display": "standalone",
   "background_color": "#ede8ed",
   "theme_color": "#63091b",
